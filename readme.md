@@ -30,7 +30,7 @@
    | receiver | address | address to receive assets|
    | owner | address | assets's owner |
 
-### [Deposit ETH contract] (https://eth.blockscout.com/address/0xfD4a4922d1AFe70000Ce0Ec6806454e78256504e?tab=read_write_contract)
+### [Deposit ETH contract](https://eth.blockscout.com/address/0xfD4a4922d1AFe70000Ce0Ec6806454e78256504e?tab=read_write_contract)
 
 1. deposit. deposit eth to vault
    | name | type | description |
