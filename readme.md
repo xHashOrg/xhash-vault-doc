@@ -88,3 +88,9 @@
 
 4. epochDurationInit
    #### Get a time point of the epoch duration set as timestamp.
+
+## Mellow api
+
+### Get mellow points by account address
+
+[https://points.mellow.finance/v1/users/{0x1CB7B54AAB4283782b8aF70d07F88AD795c952E9}](https://points.mellow.finance/v1/users/0x1CB7B54AAB4283782b8aF70d07F88AD795c952E9)
